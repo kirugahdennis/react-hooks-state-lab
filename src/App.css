@@ -74,15 +74,21 @@
   border-radius: 6px;
   cursor: pointer;
 }
+.mode-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  border-radius: 6px;
+  border: none;
+}
 
-.light {
+.Light {
   background: #f8f9fa;
   color: #222;
   min-height: 100vh;
   padding: 25px;
 }
 
-.dark {
+.Dark {
   background: #1e1e1e;
   color: white;
   min-height: 100vh;

@@ -34,7 +34,7 @@ const filteredProducts =
       <h1>Shopping App</h1>
 
       <button onClick={() => setIsDarkMode(!isDarkMode)}>
-        {isDarkMode ? "Dark" : "Light"}
+        {isDarkMode ? "Light" : "Dark"}
       </button>
 
       <select
